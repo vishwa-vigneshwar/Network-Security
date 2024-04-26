@@ -80,8 +80,8 @@ The examples in this repository are intended for educational purposes only. Cond
 
 ## Contact
 
-Your Name - Vishwa 
+Name : [Vishwa](+91 8682875077) 
 
-Project Link: [https://github.com/yourusername/java-network-security-examples](https://github.com/yourusername/java-network-security-examples)
+Project Link: [https://github.com/vishwa-vigneshwar/Network-Security.git](https://github.com/vishwa-vigneshwar/Network-Security.git)
 
 ---
