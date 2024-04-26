@@ -20,7 +20,7 @@ This repository contains Java code examples demonstrating SSL server-client comm
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/java-network-security-examples.git
+git clone https://github.com/vishwa-vigneshwar/Network-Security.git
 cd java-network-security-examples
 ```
 
@@ -80,7 +80,7 @@ The examples in this repository are intended for educational purposes only. Cond
 
 ## Contact
 
-Name : [Vishwa](+91 8682875077) 
+Name : Vishwa (+91 8682875077) 
 
 Project Link: [https://github.com/vishwa-vigneshwar/Network-Security.git](https://github.com/vishwa-vigneshwar/Network-Security.git)
 
